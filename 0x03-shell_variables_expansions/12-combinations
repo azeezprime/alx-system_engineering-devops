@@ -1,2 +1,2 @@
 #!/bin/bash
-echo a{a..n},B{p..z} 
+echo a_{a..n},B_{p..z} 
